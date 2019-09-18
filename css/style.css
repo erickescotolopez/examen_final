@@ -1,0 +1,107 @@
+.bg-blue-menu{
+	background-color: #8a8987;
+	color: #fff;
+	text-align: center;
+}
+.block.bg-blue-menu{
+	margin-top: 0;
+	padding: 20px 0;
+}
+.circle-menu{
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	border-radius: 100%;
+	background-color: #fff;
+	color: #007cc8;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+
+.card{margin: 20px 10px!important}
+
+.bg-blue-menu .block-title{
+	color: #fff;
+	margin-top: 10px;
+}
+.panel-left{
+	background-color: #24282D;
+}
+
+.cuadro_icon{background-color: #8a8987; padding: 15px; border-radius: 10px; color: #ececec!important}
+
+.block-btn{margin: 10px 15px}
+
+#categorias .button {padding: 12px auto!important}
+#Trending i{color: #ececec!important}
+
+.panel-left .list{
+	color: #E1DFDD;
+	font-size: 14px;
+}
+
+.i-blanco{
+	color: #E1DFDD;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 5px 0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+.btn_per{color: #ececec!important; background-color: #8a8987; border-radius: 1800px!important; margin: 50px 0px }
+
+.btn_cat{color: #ececec!important; background-color: #8a8987; border-radius: 1800px!important; margin: 0px -5px!important; font-size: 12px;}
+
+
+.card-recipes{background-color: #707070; border-radius: 100px; color: #ececec}
+
+.card-omelete{color: #ececec; background-color: #707070; border-top-left-radius:     30px;
+border-top-right-radius:    30px;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius:  0px;; margin: -25px 0px!important; padding: 30px!important}
+
+.rounded-img{border-radius: 50%;}
+
+#Inicio i{font-size: 800%}
+
+
+
+.margins{margin: 10px 0px}
+.marginm{margin: 20px 0px}
+.marginl{margin: 30px 0px}
+#Inicio a{color: #ececec }
+
+.page-content{background-color: #ececec}
+
+.navbar-inner{background-color: #ececec; color: #8b8a88}
+
+
+.panel{background-color: #ececec }
+
+.item-link{color: #8a8987!important}
+
+
+
+.card-producto h2{
+	font-size: 30px;
+	
+}
+
+.card-producto i{
+	color: #D7C523;
+}
+
+.card-producto h3{
+	font-size: 16px;
+}
+
+.card-producto .card-header{
+	padding: 0;
+}
