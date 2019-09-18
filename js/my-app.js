@@ -39,6 +39,12 @@ var myApp = new Framework7({
     	name: 'trending',	
 		},
 		
+			{
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',	
+		},
+		
 		{
 		path: '/sobre_nosotros/',
     	url: 'sobre_nosotros.html',

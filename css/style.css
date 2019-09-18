@@ -46,6 +46,8 @@
 	color: #E1DFDD;
 }
 
+#trending{color: #8a8987 }
+
 h1,h2,h3,h4,h5,h6{
 	margin: 5px 0;
 }
@@ -55,7 +57,7 @@ h1,h2,h3,h4,h5,h6{
 	display: block;
 }
 
-.btn_per{color: #ececec!important; background-color: #8a8987; border-radius: 1800px!important; margin: 50px 0px }
+.btn_per{color: #ececec!important; background-color: #8a8987; border-radius: 1800px!important; margin: 50px 10px }
 
 .btn_cat{color: #ececec!important; background-color: #8a8987; border-radius: 1800px!important; margin: 0px -5px!important; font-size: 12px;}
 
@@ -69,20 +71,21 @@ border-bottom-left-radius:  0px;; margin: -25px 0px!important; padding: 30px!imp
 
 .rounded-img{border-radius: 50%;}
 
-#Inicio i{font-size: 800%}
+#Inicio i{font-size: 800%; color: #707070}
 
 
 
 .margins{margin: 10px 0px}
 .marginm{margin: 20px 0px}
-.marginl{margin: 30px 0px}
+.marginl{margin-top: 30px 0px}
 #Inicio a{color: #ececec }
 
 .page-content{background-color: #ececec}
 
+.btnmargin{margin: 0px!important }
 .navbar-inner{background-color: #ececec; color: #8b8a88}
 
-
+#inicio p{color: #707070!important}
 .panel{background-color: #ececec }
 
 .item-link{color: #8a8987!important}
